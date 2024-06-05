@@ -1,0 +1,2 @@
+spec: .gear/hyprwayland-scanner.spec
+tar: v@version@:.
